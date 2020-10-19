@@ -1,5 +1,5 @@
 Description
-This repository functions was created for the undergrad biopython class. 
+This repository was created for the undergrad biopython class. 
 
 Motivation
 Present class content in an orderly matter and share it with other students who might benefit from it.
